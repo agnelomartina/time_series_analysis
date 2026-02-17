@@ -46,21 +46,30 @@ Relationship between past and future values stays stable
 What Happens If a Series Is NOT Stationary?
 In non-stationary data:
 Mean changes over time (trend)
+
 Variance may increase/decrease
+
 Model assumptions break
+
 Predictions become unreliable
 
 whereas,In stationary data:
 No clear upward or downward trend
+
 Fluctuates around a constant mean
+
 Variability remains stable
+
 Easier to model and forecast
 
 How Do We Make Data Stationary?
 Common techniques:
 Differencing
+
 Log transformation
+
 Detrending
+
 Seasonal decomposition
 
 Simple Rule
