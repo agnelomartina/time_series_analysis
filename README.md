@@ -67,7 +67,9 @@ Simple Rule
 
 If problem is:
  Trend → Differencing / Detrending
+ 
 Increasing variance → Log transform
+
 Seasonality → Seasonal decomposition
 
 Method	          Removes Trend?	        Stabilizes Variance?	        Removes Seasonality?
