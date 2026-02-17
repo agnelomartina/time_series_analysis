@@ -81,12 +81,3 @@ Increasing variance → Log transform
 
 Seasonality → Seasonal decomposition
 
-Method	          Removes Trend?	        Stabilizes Variance?	        Removes Seasonality?
-
-Differencing	         YES	                    NO	                          NO (unless seasonal diff)
-
-Log Transform	         NO                      YES                            NO
-
-Detrending	           YES                      NO                            NO
-
-Seasonal Decomposition YES                     NO                            YES
